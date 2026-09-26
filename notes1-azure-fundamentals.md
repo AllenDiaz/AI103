@@ -535,22 +535,3 @@ This introductory transcript does **not** provide:
 
 Before applying product-specific details in a live Azure environment or exam preparation, verify current terminology and product guidance in official Microsoft documentation—particularly Foundry naming, migration from Azure AI Studio, and the transcript’s “intra-agent ID” terminology.
 
----
-
-# GitHub Sequence: Stage, Commit, and Push
-
-Run these commands from the root folder of your Git repository:
-
-```bash
-git status
-git add -A
-git commit -m "Add AI-103 course notes"
-git push origin main
-```
-
-If your default branch is not `main`, replace it with the appropriate branch name:
-
-```bash
-git branch --show-current
-git push origin <your-branch-name>
-```
