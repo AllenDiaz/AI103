@@ -1,0 +1,1 @@
+Bicep template: https://github.com/Azure/azure-docs-bicep-samples
